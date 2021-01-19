@@ -1,4 +1,3 @@
-println org.kohsuke.stapler.Stapler.getCurrentRequest().getRemoteAddr();
 import hudson.XmlFile
 import jenkins.security.SecurityListener
 import java.util.logging.Logger
